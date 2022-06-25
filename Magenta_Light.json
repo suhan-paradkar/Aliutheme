@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "wisest_wizard#4344",
         "name": "Magenta Light",
         "license": "Unlicense",
@@ -20,7 +20,6 @@
         "primary_dark_200": -1499549,
         "primary_630": -1499549,
         "link": -1499549,
-        "primary_700": -1499549,
         "primary_600": -1499549,
         "brand_new": -1499549,
         "dark_grey_2": -205080,
