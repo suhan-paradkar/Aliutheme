@@ -3,7 +3,8 @@
         "version": "1.0.0",
         "author": "wisest_wizard#4344",
         "name": "Magenta Light",
-        "license": "Unlicense"
+        "license": "Unlicense",
+        "updater": "https:\/\/raw.githubusercontent.com\/suhan-paradkar\/Aliutheme\/main\/Magenta_Light.json"
     },
     "background": {},
     "fonts": {},
