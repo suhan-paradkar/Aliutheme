@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "author": "wisest_wizard#4344",
         "name": "Magenta Light",
         "license": "Unlicense",
@@ -41,7 +41,6 @@
         "uikit_btn_bg_color_selector_green": -1499549,
         "grey_3": -1499549,
         "grey_3_alpha_30": -1499549,
-        "status_grey_130": -342056,
         "primary_light_130": -205080,
         "brand_new_230": -1499549,
         "uikit_btn_bg_color_selector_red": -1499549,
@@ -63,7 +62,22 @@
         "brand_new_100": -1499549,
         "brand_new_130": -1499549,
         "brand_new_160": -475952,
-        "brand_new_200": -1499549
+        "brand_new_200": -1499549,
+        "status_grey_400": -1499549,
+        "status_grey_460": -1499549,
+        "status_grey_860": -1499549,
+        "status_grey_330": -1499549,
+        "status_grey_500": -1499549,
+        "status_grey_530": -1499549,
+        "status_grey_560": -1499549,
+        "status_grey_630": -1499549,
+        "status_grey_660": -1499549,
+        "status_grey_700": -1499549,
+        "status_grey_730": -1499549,
+        "status_grey_760": -1499549,
+        "status_grey_800": -1499549,
+        "status_grey_830": -1499549,
+        "status_grey_900": -1499549
     },
     "drawable_tints": {
         "drawable_squircle_primary_600": -2820,
