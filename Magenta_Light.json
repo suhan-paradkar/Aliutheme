@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.2",
+        "version": "1.0.3",
         "author": "wisest_wizard#4344",
         "name": "Magenta Light",
         "license": "Unlicense",
@@ -68,7 +68,7 @@
         "status_grey_860": -1499549,
         "status_grey_330": -1499549,
         "status_grey_500": -1499549,
-        "status_grey_530": -1499549,
+        "status_grey_530": -223308,
         "status_grey_560": -1499549,
         "status_grey_630": -1499549,
         "status_grey_660": -1499549,
